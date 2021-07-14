@@ -28,8 +28,16 @@ const Header = ({ siteTitle }) => (
         </Link>
       </h1>
     </div>
+    
+    <div class="topnav">
+  <a href="/">Home</a>
+  <a href="/page-2/">Go to Page 2</a>
+  <a href="/using-typescript/">Go to using Typescript</a>
+</div>
   </header>
 )
+
+
 
 Header.propTypes = {
   siteTitle: PropTypes.string,
