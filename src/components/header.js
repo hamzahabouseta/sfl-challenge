@@ -29,10 +29,10 @@ const Header = ({ siteTitle }) => (
       </h1>
     </div>
     
-      <div class="topnav">
-        <a href="/">Home</a>
-        <a href="/page-2/">Go to Page 2</a>
-        <a href="/using-typescript/">Go to "Using TypeScript"</a>
+    <div class="topnav">
+      <a href="/">Home</a>
+      <a href="/page-2/">Go to Page 2</a>
+      <a href="/using-typescript/">Go to "Using TypeScript"</a>
     </div>
   </header>
 )
