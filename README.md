@@ -1,3 +1,3 @@
-Name: Hamzah Abouseta
+**Name:** Hamzah Abouseta
 
-Netlify link: https://hamzahabousetasfl.netlify.app/
+**Netlify link:** https://hamzahabousetasfl.netlify.app/
